@@ -39,7 +39,7 @@ function showMovies(movies) {
       <h3>Overview</h3>
         ${overview}
     </div>
-   
+  
     `
     main.appendChild(movieEl)
 
