@@ -131,3 +131,22 @@ header {
     border-radius: 3px;
   }
 }
+
+@media (max-width: 900px) {
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #main {
+    margin-left: 4rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .movie {
+    position: relative;
+    border-radius: 3px;
+  }
+}
